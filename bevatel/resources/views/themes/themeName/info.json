@@ -1,0 +1,13 @@
+{
+    "name": {
+        "en": "Theme name"
+    },
+    "description": {
+        "en": "good theme"
+    },
+    "keywords": [],
+    "aliases": "themeName",
+    "files": [],
+    "requires": [],
+    "image": "placeholder.webp"
+}
